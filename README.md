@@ -1,6 +1,11 @@
 ua-speaking-bot
 ===============
-#### This is a tiny telegram bot (@ua_speaking_bot) I wrote to support a group of mine (@ua_speaking) that I created to help Ukrainian people learn English
+This is a Telegram bot I coded to help Ukrainian refugees find speaking partners of their level and age.
+
+<details>
+  <summary>Note</summary>
+  the bot isn't running at the moment, because I wasn't able to find some money to pay for the hosting.
+</details>
 
 ### TODO
 [ ] Feature: mute a member until the registration is complete  
